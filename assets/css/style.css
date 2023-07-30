@@ -21,7 +21,7 @@ body {
 
 body-loader {
     /* ... outras propriedades ... */
-    transition: 4s;
+    transition: 1s;
     /* Aumente o tempo da transição para 4 segundos */
 }
 
